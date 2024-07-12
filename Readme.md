@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [personal website](https://bhavya-kashmira.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@bhavyakashmira](https://medium.com/@bhavyakashmira)
+- 📝 I regularly write articles on [medium](https://medium.com/@bhavyakashmira)
 
 - 💬 Ask me about **Reactjs ,DSA, firebase**
 
