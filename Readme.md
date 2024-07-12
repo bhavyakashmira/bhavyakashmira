@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://personal-website-git-main-bhavyakashmira.vercel.app/](https://personal-website-git-main-bhavyakashmira.vercel.app/)
+- 👨‍💻 All of my projects are available at [personal website](https://bhavya-kashmira.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@bhavyakashmira](https://medium.com/@bhavyakashmira)
 
